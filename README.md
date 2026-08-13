@@ -29,11 +29,6 @@ codebase can execute arbitrary code on your machine. There were also genuinely t
 leak" repositories in circulation in April 2026, documented by Zscaler ThreatLabz, distributing Vidar
 and GhostSocks through a Windows executable. Use the official Claude Code CLI from Anthropic.
 
-## What came out of it
-
-The x402 work continues as [`nirholas/agenti`](https://github.com/nirholas/agenti), a wallet for AI
-agents: pay x402 APIs, receive USDC, on EVM and Solana, with MCP client support. Same idea, none of
-anyone else's code in it.
 
 ## License
 
