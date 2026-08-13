@@ -127,15 +127,6 @@ Zscaler ThreatLabz published the indicators of compromise. They name three thing
 `idbzoomh1`. This account is named in none of it. There were no binaries, no releases and no
 installers here, only TypeScript in a git tree.
 
-## Where the x402 code went
-
-The payment integration was the part of this I actually wanted to build, and it outlived the
-repository. It survives at its original paths in a number of projects that forked before the takedown,
-usually uncredited and sometimes still mistaken for Anthropic's.
-
-The maintained version is [`nirholas/agenti`](https://github.com/nirholas/agenti): give any agent a
-wallet, pay x402 APIs, receive USDC, on EVM and Solana, with MCP client support. Same idea, none of
-anyone else's code in it, which is where it should have been from the start.
 
 ## Verify all of it yourself
 
