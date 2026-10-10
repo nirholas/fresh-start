@@ -1,0 +1,27 @@
+name: Bug report
+description: Something does not work as documented
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: fresh-start version or commit
+      placeholder: v1.0.0 or a commit SHA
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: Runtime and OS
+      placeholder: Node 22, macOS 15
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Smallest reproduction
+      render: shell

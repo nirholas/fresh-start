@@ -1,0 +1,23 @@
+# fresh-start
+
+> The original nirholas/claude-code before DMCA and take down. Once everything is cleared, it will return. Working with Anthropic and Github to get everything back.
+
+fresh-start is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/fresh-start/blob/HEAD/README.md): install, usage and reference
+- [Read this instead](https://github.com/nirholas/fresh-start/blob/HEAD/README.md#read-this-instead)
+- [Do not run copies of the leak](https://github.com/nirholas/fresh-start/blob/HEAD/README.md#do-not-run-copies-of-the-leak)
+- [License](https://github.com/nirholas/fresh-start/blob/HEAD/README.md#license)
+- [AGENTS.md](https://github.com/nirholas/fresh-start/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/fresh-start/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/fresh-start)
+- [Issues](https://github.com/nirholas/fresh-start/issues)
+- [Discussions](https://github.com/nirholas/fresh-start/discussions)
+- [Homepage](https://three.ws)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)

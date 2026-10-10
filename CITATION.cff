@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "fresh-start"
+abstract: "The original nirholas/claude-code before DMCA and take down. Once everything is cleared, it will return. Working with Anthropic and Github to get everything back."
+repository-code: "https://github.com/nirholas/fresh-start"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

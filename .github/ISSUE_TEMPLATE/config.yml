@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question or share what you built
+    url: https://github.com/nirholas/fresh-start/discussions
+    about: Open-ended questions belong in Discussions.
+  - name: three.ws platform support
+    url: https://three.ws
+    about: Questions about the hosted platform rather than this repository.
+  - name: Security report
+    url: https://github.com/nirholas/fresh-start/security/advisories/new
+    about: Report a vulnerability privately.
