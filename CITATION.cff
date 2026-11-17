@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: If you use this software, please cite it as below.
 title: "fresh-start"
-abstract: "The original nirholas/claude-code before DMCA and take down. Once everything is cleared, it will return. Working with Anthropic and Github to get everything back."
+abstract: "Formerly nirholas/claude-code. The record of the Claude Code leak mirror, the DMCA, and the x402 correction. Contains no Anthropic source code."
 repository-code: "https://github.com/nirholas/fresh-start"
 url: "https://three.ws"
 authors:

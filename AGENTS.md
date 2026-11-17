@@ -4,7 +4,7 @@ Guidance for AI coding agents working in this repository.
 
 ## What this is
 
-`fresh-start`: The original nirholas/claude-code before DMCA and take down. Once everything is cleared, it will return. Working with Anthropic and Github to get everything back.
+`fresh-start`: Formerly nirholas/claude-code. The record of the Claude Code leak mirror, the DMCA, and the x402 correction. Contains no Anthropic source code.
 
 
 
