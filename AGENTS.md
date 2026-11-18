@@ -12,7 +12,7 @@ Guidance for AI coding agents working in this repository.
 
 - [README.md](README.md) has install, usage and configuration.
 - [llms.txt](llms.txt) is a machine-readable summary; [llms-full.txt](llms-full.txt) inlines the README.
-- Part of [three.ws](https://three.ws), a platform for 3D AI agents with Solana wallets. Catalog of sibling repositories: https://github.com/nirholas/nirholas#readme
+- Catalog of sibling repositories: https://github.com/nirholas/nirholas#readme
 
 ## Develop
 

@@ -3,7 +3,6 @@ message: If you use this software, please cite it as below.
 title: "fresh-start"
 abstract: "Formerly nirholas/claude-code. The record of the Claude Code leak mirror, the DMCA, and the x402 correction. Contains no Anthropic source code."
 repository-code: "https://github.com/nirholas/fresh-start"
-url: "https://three.ws"
 authors:
-  - name: three.ws
-    website: "https://three.ws"
+  - name: nirholas
+    website: "https://github.com/nirholas"

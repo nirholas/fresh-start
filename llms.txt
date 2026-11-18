@@ -2,7 +2,7 @@
 
 > Formerly nirholas/claude-code. The record of the Claude Code leak mirror, the DMCA, and the x402 correction. Contains no Anthropic source code.
 
-fresh-start is an open-source repository by nirholas, part of the three.ws ecosystem.
+fresh-start is an open-source repository by nirholas.
 
 ## Docs
 
@@ -18,6 +18,4 @@ fresh-start is an open-source repository by nirholas, part of the three.ws ecosy
 - [Source](https://github.com/nirholas/fresh-start)
 - [Issues](https://github.com/nirholas/fresh-start/issues)
 - [Discussions](https://github.com/nirholas/fresh-start/discussions)
-- [Homepage](https://three.ws)
-- [three.ws](https://three.ws): the platform this is part of
 - [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)
